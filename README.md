@@ -95,10 +95,10 @@ php avenger sh
 * Sql Injection
 * Local File Download
 * Admin Page
+* XSS
+* RFI
 
 #### Future Vulnerabilities Checked
-* RFI
-* Xss
 * Sensitive Files
     * Dump Files
     * Config Files
@@ -116,6 +116,6 @@ php avenger sh
 ## Help and docs
 * [Documentation](http://phpavenger.aszone.com.br).
 * [Examples](http://phpavenger.aszone.com.br/examples).
-* [Videos](http://youtube.com/aszone).
+* [Videos](https://www.youtube.com/user/MrLenonleite).
 * [Steakoverflow](http://phpavenger.aszone.com.br).
 

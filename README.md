@@ -63,6 +63,12 @@ php avenger sh --dork="site:com.ar inurl:download.php?file=" --check="lfd"
 #### Result of Local File Download
 ![alt tag](http://lenonleite.com.br/wp-content/uploads/2016/06/imagem7.png)
 
+```bash
+php avenger sh --dork="site:com.br inurl:baixar.php?arquivo=" --check="lfd" --exploit
+```
+### Result of Local File Download - Youtube Link
+[![PHP Octopus](https://img.youtube.com/vi/8PMXW4koYcM/0.jpg)](https://www.youtube.com/watch?v=8PMXW4koYcM)
+
 
 ### Check is Admin Page
 ```bash

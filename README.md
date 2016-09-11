@@ -63,6 +63,7 @@ php avenger sh --dork="site:com.ar inurl:download.php?file=" --check="lfd"
 #### Result of Local File Download
 ![alt tag](http://lenonleite.com.br/wp-content/uploads/2016/06/imagem7.png)
 
+### Check Local File Download with exploit
 ```bash
 php avenger sh --dork="site:com.br inurl:baixar.php?arquivo=" --check="lfd" --exploit
 ```
